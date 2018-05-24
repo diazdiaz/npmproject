@@ -1,0 +1,191 @@
+* {
+  font-family:"Source Sans Pro", "Lucida Grande", "sans-serif";
+}
+nav {
+  background-color: #C12127;
+  padding-top: 10px;
+  padding-bottom:10px ;
+  height: 25px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  text-align:center;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+  position:relative;
+  bottom: 20px;
+}
+header {
+  background-color:rgb(32, 101, 136);
+}
+
+.head-div1 {
+  padding:10px 0 0 10px;
+  width:100%;
+}
+
+
+.search-bar {
+  background: rgb(31, 82, 111);
+  width: 200px;
+  float:right;
+  
+}
+.logo {
+ 
+  width: 100px;
+  height: 40px;
+ 
+}
+.content-city {
+  color:white;
+  width:900px; 
+  height:400px;
+  margin: 0 auto;
+  text-align:left;
+  padding: 0 30% 0 0;  
+}
+
+.content-city-text {
+  position:relative;
+  width: 50%;
+  padding:10% 0 0 0;
+  margin:0 auto;
+}
+
+.clearfix {
+  clear:both;
+}
+
+.city-scape {
+  
+  float:right;
+  position:absolute;
+  width: 100%;
+  height: 400px;
+}
+
+
+
+.button {
+  color:white;
+  background:rgb(240, 146, 51);
+  padding:10px 15px 10px 15px;
+  text-align:center;
+  border: none;
+  border-radius:20px;
+  display:inline-block;
+  font-size:16px;
+}
+.container {
+  background-color:rgb(39, 53, 71);
+  color:white;
+  height:500px;
+  width:100%;
+}
+.container ul {
+  position:relative;
+  right:25px;
+  bottom:13px;
+}
+.container h2 {
+font-size:2.3em;
+ width: 300px;
+}
+.collimage {
+  height: 70%;
+  float:left;
+  position:absolute;
+  width: 30%;
+  padding-left: 200px;
+}
+.text-content {
+  text-align:left;
+  font-size: 0.78em;
+  position:relative;
+  width: 450px;
+  height:200px;
+  margin:0 auto;
+  padding-top:85px;
+  padding-left:450px;
+}
+.button2 {
+  color:white;
+  background:rgb(203, 56, 55);
+  padding:10px 15px 10px 15px;
+  text-align:center;
+  border: none;
+  border-radius:20px;
+  display:inline-block;
+  font-size:16px;
+  position:relative;
+  bottom:10px;
+}
+.aboutnpm {
+  background-size:cover;
+  position:relative;
+}
+
+.forklift {
+  width:100%;
+  height:500px;
+}
+.text-content2 {
+  position:absolute;
+  width:25%;
+  bottom:190px;
+  padding:0 0 20px 190px;
+}
+
+aboutnpm h2 {
+  font-size:2em;
+}
+.button3 {
+  color:white;
+  background:rgb(49, 68, 88);
+  padding:10px 15px 10px 15px;
+  text-align:center;
+  border: none;
+  border-radius:20px;
+  display:inline-block;
+  font-size:16px;
+  width: 140px;
+}
+
+.finalcontainer {
+  height:500px;
+  width:90%;
+  margin: 0 auto;
+  text-align:center;
+
+}
+
+.3blocks {
+  width:100;
+  height:450px;
+  padding: 50px 0 0 0;
+}
+.blocks {
+  float:left;
+}
+.blocks2 {
+  width:30%;
+  height: 200px;
+
+.col-middle {
+  margin: 0 5% 0 5%;
+}
+ 
