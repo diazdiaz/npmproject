@@ -50,7 +50,9 @@ header {
   height: 40px;
  
 }
+
 .content-city {
+  background-image: url(npmproject/images/city-scape.svg);
   color:white;
   width:900px; 
   height:400px;
